@@ -1,0 +1,15 @@
+{
+  "name": "express-tutorial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/deeosy/Express-tutorial-code-addict.git",
+  "author": "Derrode Walter Cheale <144121696+deeosy@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
